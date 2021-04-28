@@ -16,12 +16,13 @@ ionic start myApp
 
 ![](https://github.com/Kishore117/Ionic-Fremwork-Setup-Demo/blob/eb2e1ab9796d6183be966dda6576058ec78d95d2/New%20folder/01.png)
 
-
 ![](https://github.com/Kishore117/Ionic-Fremwork-Setup-Demo/blob/eb2e1ab9796d6183be966dda6576058ec78d95d2/New%20folder/02.png)
 
+To Run the Application:-
 
 ![](https://github.com/Kishore117/Ionic-Fremwork-Setup-Demo/blob/eb2e1ab9796d6183be966dda6576058ec78d95d2/New%20folder/03.png)
 
+For Generating Components, Services, Modules, etc
 
 ![](https://github.com/Kishore117/Ionic-Fremwork-Setup-Demo/blob/eb2e1ab9796d6183be966dda6576058ec78d95d2/New%20folder/04.png)
 
