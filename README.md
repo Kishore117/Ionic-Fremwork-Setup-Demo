@@ -10,24 +10,22 @@ For installation of Ionic Framework Globally:-
 
 npm install -g @ionic/cli
 
-For Create New Ionic Project:-
-
-ionic start myApp
+For Create New Ionic Project:- ionic start myApp
 
 ![](https://github.com/Kishore117/Ionic-Fremwork-Setup-Demo/blob/eb2e1ab9796d6183be966dda6576058ec78d95d2/New%20folder/01.png)
 
 ![](https://github.com/Kishore117/Ionic-Fremwork-Setup-Demo/blob/eb2e1ab9796d6183be966dda6576058ec78d95d2/New%20folder/02.png)
 
-To Run the Application:-
+To Run the Application:- ionic serve
 
 ![](https://github.com/Kishore117/Ionic-Fremwork-Setup-Demo/blob/eb2e1ab9796d6183be966dda6576058ec78d95d2/New%20folder/03.png)
 ![](https://github.com/Kishore117/Ionic-Fremwork-Setup-Demo/blob/eb2e1ab9796d6183be966dda6576058ec78d95d2/New%20folder/06.png)
 
-For Generating Components, Services, Modules, etc
+For Generating Components, Services, Modules, etc :- ionic generate
 
 ![](https://github.com/Kishore117/Ionic-Fremwork-Setup-Demo/blob/eb2e1ab9796d6183be966dda6576058ec78d95d2/New%20folder/04.png)
 
-To Build application:-
+To Build application:- ionic build --prod
 
 ![](https://github.com/Kishore117/Ionic-Fremwork-Setup-Demo/blob/eb2e1ab9796d6183be966dda6576058ec78d95d2/New%20folder/05.png)
 
