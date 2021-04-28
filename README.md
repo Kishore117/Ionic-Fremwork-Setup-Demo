@@ -6,7 +6,7 @@ Download Latest Nodejs Version
 
 Step2:-
 
-For Install Of Ionic Framework Globally:-
+For installation of Ionic Framework Globally:-
 
 npm install -g @ionic/cli
 
