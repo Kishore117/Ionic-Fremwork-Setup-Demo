@@ -26,6 +26,7 @@ For Generating Components, Services, Modules, etc
 
 ![](https://github.com/Kishore117/Ionic-Fremwork-Setup-Demo/blob/eb2e1ab9796d6183be966dda6576058ec78d95d2/New%20folder/04.png)
 
+To Build application:-
 
 ![](https://github.com/Kishore117/Ionic-Fremwork-Setup-Demo/blob/eb2e1ab9796d6183be966dda6576058ec78d95d2/New%20folder/05.png)
 
