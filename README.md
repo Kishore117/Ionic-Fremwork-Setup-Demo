@@ -1,4 +1,4 @@
-# Ionic-Fremwork-Setup-Demo
+# Ionic-Framework-Setup-Demo
 
 Step1:-
 
